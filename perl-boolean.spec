@@ -6,13 +6,13 @@
 %define	pdir	boolean
 Summary:	boolean - Boolean support for Perl
 Name:		perl-boolean
-Version:	0.27
+Version:	0.28
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/I/IN/INGY/boolean-%{version}.tar.gz
-# Source0-md5:	63110b4b93c38d45f57f06c6077aaf0b
+# Source0-md5:	488916ac0aa8be172460e896a8a9977a
 URL:		http://search.cpan.org/dist/boolean/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
