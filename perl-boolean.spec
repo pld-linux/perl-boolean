@@ -6,7 +6,7 @@
 Summary:	boolean - Boolean support for Perl
 Name:		perl-boolean
 Version:	0.46
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
